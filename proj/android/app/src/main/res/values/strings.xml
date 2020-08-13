@@ -1,0 +1,6 @@
+<resources>
+<string name="appCenterCrashes_whenToSendCrashes" moduleConfig="true" translatable="false">DO_NOT_ASK_JAVASCRIPT</string>
+<string name="appCenterAnalytics_whenToEnableAnalytics" moduleConfig="true" translatable="false">ALWAYS_SEND</string>
+     <string name="CodePushPublicKey">Kyowz5n2xLcrKFOD6Ee_30uz8r7P8-Oma7fSE</string>
+    <string name="app_name">proj</string>
+</resources>
